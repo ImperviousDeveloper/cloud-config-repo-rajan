@@ -1,5 +1,5 @@
 # Set these values in Configuration class
 limits-service:
-  minimum: 3
-  maximum: 997
+  minimum: 45
+  maximum: 998
   
